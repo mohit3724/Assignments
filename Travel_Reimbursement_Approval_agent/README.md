@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a Travel Reimbursement Approval Agent using a single CrewAI agent and Google Gemini 2.5 Flash. The agent evaluates travel reimbursement claims by retrieving policy context, validating receipts, checking reimbursement limits, and producing structured reimbursement decisions.
+This project implements a Travel Reimbursement Approval Agent using a single CrewAI agent and Google gemini-3.1-flash-lite. The agent evaluates travel reimbursement claims by retrieving policy context, validating receipts, checking reimbursement limits, and producing structured reimbursement decisions.
 
 The system is designed to be lightweight, reliable, and easy to demonstrate. It prioritizes policy compliance and routes ambiguous or policy-exception cases to Manual Review instead of forcing incorrect decisions.
 
