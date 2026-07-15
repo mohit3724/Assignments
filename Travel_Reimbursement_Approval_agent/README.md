@@ -148,7 +148,7 @@ The notebook will automatically:
                          |
                     CrewAI Agent
                          |
-                  Gemini 2.5 Flash
+                  gemini-3.1-flash-lite
                          |
                   decides which tools
                      should be used
